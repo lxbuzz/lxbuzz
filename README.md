@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lxbuzz
-- 👀 I’m interested in Junior QA position in UA/abroad remote
-- 🌱 I’m currently learning QA @ skillup.com 
+- 👀 I’m interested in (Junior) Data Analyst position in UA/Poland/etc remote, Warsaw - locally
+- 🌱 I've just updated my analytical tools skill @ GoIT courses,
+- Though working with data and analytics since 200x in various applied areas from economics to digital marketing and e-learning 
 
 - 📫 How to reach me ... use @lxbuzz
 
